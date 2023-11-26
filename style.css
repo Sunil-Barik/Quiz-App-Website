@@ -1,0 +1,233 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+    font-family:sans-serif;
+    box-sizing: border-box;
+    
+    }
+    body{
+    
+        background-image: url("Luxury-Gold-and-Black-Background-Design-Graphics-30685945-1.jpg");  
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    }
+    
+           
+    .name p
+    {
+    color: white;
+        padding-left: 35%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30%;
+    padding-left: 32%;
+    font-size: 35px;
+    }
+    .name p b{
+        color: goldenrod;
+        text-decoration: underline;
+    }
+    .navbar a{
+        color: white;
+        text-decoration-line: none;
+        font-size: 13px;
+        font-weight: 750;
+        margin-left: 35px;
+        cursor: pointer;
+    
+    }
+    
+    .navbar ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-right: 550px;
+    padding-left: 10px;
+    padding-bottom: 20PX;
+    text-decoration-line: none;
+    transition: .5s;
+    background: transparent;
+    white-space: nowrap;
+  overflow: hidden;
+    }
+    
+    .navbar a:hover{
+    
+    color:goldenrod;
+    
+    
+    }
+    .header ul  .logo{
+    
+    color:rgb(255, 255, 255);
+    font-size: large;
+    padding-right: 600px;
+    display: inline-flex;
+    transition: .5s;
+    
+    }
+    ul .logo:hover
+    {
+    color: goldenrod;
+    
+    
+    
+    }
+    .category{
+display: flex;
+justify-content: space-around;
+padding-top: 300px;
+padding-left: 250px;
+padding-right: 200px;
+
+
+
+
+    }
+    
+    .card1{
+        background-image: url("rsz_1photo-1549366021-9f761d450615.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 200px;
+        height: 200px;
+        text-align: center;
+        border-radius: 10px; 
+        border: 3px solid goldenrod;
+        font-size: 15px;
+        font-weight: 400;
+        color: brown;
+        box-shadow: 0 0 20px transparent;
+        cursor: pointer;
+        padding-top: 20px;
+
+ 
+  }
+    .card1:hover{
+        color: goldenrod;
+    }
+    .card1 .btn:hover{
+    
+        background-color: goldenrod
+    }
+    .card2{
+        background-image: url("science.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        width: 200px;
+        height: 200px;
+        border: 3px solid goldenrod;
+        border-radius: 10px; 
+        border: 3px solid goldenrod;
+        font-size: 15px;
+        font-weight: 400;
+        color: brown;
+        box-shadow: 0 0 20px transparent;
+        padding-top: 20px;
+
+    }
+    .card2:hover{
+        color: goldenrod;
+    }
+    .card2 .btn:hover{
+    
+        background-color: goldenrod
+    }
+    .card3{
+        background-image: url("modern-education-Skillstork-1568x882.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        border: 3px solid goldenrod;
+
+        width: 200px;
+        height: 200px;
+        border-radius: 10px; 
+        border: 3px solid goldenrod;
+        font-size: 15px;
+        font-weight: 400;
+        color: brown;
+        box-shadow: 0 0 20px transparent;
+        padding-top: 20px;
+    }
+    .card3:hover{
+        color: goldenrod;
+    }
+    .card3 .btn:hover{
+    
+        background-color: goldenrod
+    }
+    .card4{
+        background-image: url("nature.avif");
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        border: 3px solid goldenrod;
+        padding-top: 20px;
+
+        width: 200px;
+        height: 200px;
+        border-radius: 10px; 
+        border: 3px solid goldenrod;
+        font-size: 15px;
+        font-weight: 400;
+        color: brown;
+        box-shadow: 0 0 20px transparent;
+    }
+    .card4:hover{
+        color: goldenrod;
+    }
+    .card4 .btn:hover{
+    
+        background-color: goldenrod
+    }
+    .card1 .btn{
+    
+        width: 100px;
+        height: 25px;
+        margin-top: 100px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+        border-radius: 10px;
+
+    }
+    .card2 .btn{
+    
+        width: 100px;
+        height: 25px;
+        margin-top: 100px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+        border-radius: 10px;
+
+    }
+    .card3 .btn{
+    
+        width: 100px;
+        height: 25px;
+        margin-top: 100px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+        border-radius: 10px;
+
+    }
+    .card4 .btn{
+    
+        width: 100px;
+        height: 25px;
+        margin-top: 100px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+        border-radius: 10px;
+
+    }
+        

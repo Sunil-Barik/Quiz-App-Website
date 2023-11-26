@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.bc{
+    background-image: url("Luxury-Gold-and-Black-Background-Design-Graphics-30685945-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    filter: blur(2px);
+
+}
+.inst h2{
+    text-align: center;
+
+}
+.inst{
+    width: 400px;
+    height:220px;
+    background-color: brown;
+    color:white ;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    line-height: 1.8;
+   border-radius: 10px;
+   border: 2px solid goldenrod;
+
+
+
+}
+.inst ul li{
+    padding-left: 20px;
+  list-style-type: none;
+
+
+}
+.btn{
+    
+    width: 100px;
+    height: 25px;
+    margin-left: 140px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    border-radius: 10px;
+
+}
